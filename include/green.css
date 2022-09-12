@@ -1,0 +1,6 @@
+/* Uses the ShittyAuthLauncher dark theme, but changes the highlight color to green */
+
+* {
+	-fx-highlight: #018700;
+	-fx-highlight-transparent: #01870022;
+}
