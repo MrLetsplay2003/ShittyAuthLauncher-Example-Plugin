@@ -24,4 +24,9 @@ public class MyBrandingProvider implements BrandingProvider {
 		return SALPlugin.class.getResourceAsStream("/include/cringe_studios.png");
 	}
 
+	@Override
+	public String getGameName() {
+		return "Cringe Minecraft";
+	}
+
 }
