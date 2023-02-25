@@ -49,6 +49,13 @@
 		<plugin.provider>MrLetsplay</plugin.provider>
 		<plugin.dependencies />
 	</properties>
+	
+	<repositories>
+		<repository>
+			<id>Graphite-Official</id>
+			<url>https://maven.graphite-official.com/releases</url>
+		</repository>
+	</repositories>
 
 	<dependencies>
 		<dependency>
